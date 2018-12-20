@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotyficatinoBackgroundProces</string>
+    <string name="channel_name">chanelName</string>
+    <string name="channel_description">Opiskategorii</string>
+</resources>
